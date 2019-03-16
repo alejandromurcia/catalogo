@@ -1,0 +1,4 @@
+com/uniandes/catalogo/CatalogoApplication.class
+com/uniandes/catalogo/controllers/CatalogoController.class
+com/uniandes/catalogo/models/ProductoModel.class
+com/uniandes/catalogo/services/CatalogoService.class
